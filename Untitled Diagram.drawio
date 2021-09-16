@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-16T10:09:22.714Z" agent="5.0 (Windows)" etag="xGo1KRmIXEKGIih-1Dbm" version="15.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-16T10:15:14.558Z" agent="5.0 (Windows)" etag="dVp0j2H99ei6U2BBBewZ" version="15.2.7" type="github">
   <diagram id="UNVHkKVHkpQPmcZDYZuC" name="Page-1">
-    <mxGraphModel dx="679" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -177,6 +177,24 @@
         </mxCell>
         <mxCell id="FxjFp0CKfUFNL3bywg3y-44" value="&lt;div&gt;Insances &lt;br&gt;&lt;/div&gt;&lt;div&gt;(CLIN, CLUD, CDU)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="300" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FxjFp0CKfUFNL3bywg3y-45" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FxjFp0CKfUFNL3bywg3y-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="410" as="sourcePoint" />
+            <mxPoint x="360" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FxjFp0CKfUFNL3bywg3y-46" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="FxjFp0CKfUFNL3bywg3y-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="440" as="sourcePoint" />
+            <mxPoint x="360" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FxjFp0CKfUFNL3bywg3y-47" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="FxjFp0CKfUFNL3bywg3y-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="440" as="sourcePoint" />
+            <mxPoint x="220" y="450" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-16T10:08:01.908Z" agent="5.0 (Windows)" etag="F07Z8L3eezgnTu-rDGqg" version="15.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-16T10:09:22.714Z" agent="5.0 (Windows)" etag="xGo1KRmIXEKGIih-1Dbm" version="15.2.7" type="github">
   <diagram id="UNVHkKVHkpQPmcZDYZuC" name="Page-1">
-    <mxGraphModel dx="1164" dy="861" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="679" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,10 +17,10 @@
           <mxGeometry x="20" y="10" width="270" height="20" as="geometry" />
         </mxCell>
         <mxCell id="FxjFp0CKfUFNL3bywg3y-5" value="Démarches qualité &amp;amp;instances" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="20" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FxjFp0CKfUFNL3bywg3y-6" value="Nous contacter" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="20" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FxjFp0CKfUFNL3bywg3y-7" value="HC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="160" y="140" width="120" height="60" as="geometry" />
@@ -171,6 +171,12 @@
             <mxPoint x="570" y="430" as="sourcePoint" />
             <mxPoint x="780" y="330" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="FxjFp0CKfUFNL3bywg3y-43" value="Indicateurs" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="160" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FxjFp0CKfUFNL3bywg3y-44" value="&lt;div&gt;Insances &lt;br&gt;&lt;/div&gt;&lt;div&gt;(CLIN, CLUD, CDU)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="300" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

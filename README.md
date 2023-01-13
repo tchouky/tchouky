@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tchouky
 - 👀 I’m interested in many things
-- 🌱 I’m currently learning English
+- 🌱 I’m currently learning English and Python
 - 💞️ I’m looking to collaborate on working projects and hobbies projects
 - 📫 How to reach me by mp
 
